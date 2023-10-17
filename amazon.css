@@ -154,7 +154,7 @@
 
 
 .hero-sec {
-    background-image: url(photos/hero_image.jpg);
+    background-image: url("photos/hero_image.jpg");
     height: 400px;
     background-size: cover;
     width: 1349px;
@@ -279,6 +279,6 @@ ul a {
     border-top: 0.5px solid white;
 }
 .foot-logo{
-background-image: url(photos/amazon_logo.png);
+background-image: url('photos/amazon_logo.png');
 
 }
